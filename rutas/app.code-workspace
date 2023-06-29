@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../prod/envirt/Scripts/app"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../app-chatgpt"
+		},
+		{
+			"path": "../../proyectoInformatorio/informatorio-practica1/Scripts/informatorioPractica1"
+		},
+		{
+			"path": "../../djangoproject"
+		},
+		{
+			"path": "../../CursoMasterCSS"
+		},
+		{
+			"path": "../../INFO-PRACTICAS"
+		},
+		{
+			"path": "../../INFO-PROJECT/projecto2/Scripts/aplicacion"
+		},
+		{
+			"path": "../../desafio10/desafiodiez"
+		},
+		{
+			"path": "../../repasoflexbox"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "repasoflexbox",
+		"git.ignoreLimitWarning": true
+	}
+}
